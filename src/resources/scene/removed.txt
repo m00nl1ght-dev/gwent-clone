@@ -1,0 +1,2 @@
+Assets and textures are not included in this repo because I don't have copyright for them.
+I only created this repo for people who are insterested in the source code.
